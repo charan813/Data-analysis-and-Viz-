@@ -4,15 +4,15 @@ Contains data analysis and visualizations using numpy, pandas, matplotlib and se
 ### Matrices:
 ### - Salary
 ### - Games
-###- MinutesPlayed
+### - MinutesPlayed
 ### - FieldGoals
 ### - FieldGoalAttempts
 ### - Points
-### Lists:
+## Lists:
 ### - Players
 ### - Seasons
-### Dictionaries:
-### - Sdict
+## Dictionaries:
+### - Sdict 
 ### - Pdict
 
 ###Comments:
