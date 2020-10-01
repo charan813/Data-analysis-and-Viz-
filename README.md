@@ -2,18 +2,18 @@
 Contains data analysis and visualizations using numpy, pandas, matplotlib and seaborn packages 
 ##Basketball_stats contains the following
 ### Matrices:
-### - Salary
-### - Games
-### - MinutesPlayed
-### - FieldGoals
-### - FieldGoalAttempts
-### - Points
+- Salary  
+- Games
+- MinutesPlayed  
+ - FieldGoals
+ - FieldGoalAttempts
+ - Points
 ## Lists:
-### - Players
-### - Seasons
+ - Players
+ - Seasons
 ## Dictionaries:
-### - Sdict 
-### - Pdict
+ - Sdict 
+ - Pdict
 
 ## Comments:  
 ### Seasons are labeled based on the first year in the season   
